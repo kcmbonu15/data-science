@@ -8,5 +8,8 @@
     variables measured by one of the authors (Salvioni) using  Nikon measure-scope (accuracy 
     1/1000 mm) and dial calipers (accuracy 1/100 mm). The sample consists of 288 specimens
     collected mostly in Central Europe (Alps and Jura mountains) and in Toscana.One peculiar 
-    aspect of this data set is that the chromosomes of 89 specimens were analyzed to identify the specimens
+    aspect of this data set is that the chromosomes of 89 specimens were analyzed to     identify the specimens
     Only the morphometric characteristics are avaliable for the remaining 199 specimens.."
+
+> - Develop a model from the 89 specimens that you can use to predict the group memebership 
+    of the remaining 199 specimens
