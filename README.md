@@ -1,6 +1,7 @@
 # My Project
 -------------
 > **Note:**
+> - Final Report Vole Data Analysis 
 
 > - Consider the "microtus" dataset in the "Flury" library in R
 
@@ -13,3 +14,5 @@
 
 > - Develop a model from the 89 specimens that you can use to predict the group memebership 
     of the remaining 199 specimens
+
+> - The aim of this project is to implement a classification method, using the Known to classify the unknown, the scope of this project also include the different classifier and combination methods, and evaluate the metric around their performance. 
